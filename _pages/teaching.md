@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: splash
 title: Teaching
 permalink: /teaching/
 ---

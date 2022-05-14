@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: splash
 title: Research
 permalink: /research/
 ---

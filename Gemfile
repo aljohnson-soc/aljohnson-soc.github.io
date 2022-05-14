@@ -23,6 +23,7 @@ end
 gem "nokogiri", "~> 1.13.4"
 #gem "i18n", "~> 0.9.5"
 gem "webrick"
+gem "jekyll-remote-theme"
 
 # Lock `http_parser.rb` gem to `v0.6.x` on JRuby builds since newer versions of the gem
 # do not have a Java counterpart.

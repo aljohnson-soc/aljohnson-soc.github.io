@@ -13,12 +13,16 @@ source "https://rubygems.org"
 gem "minimal-mistakes-jekyll"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
-gem "github-pages", group: :jekyll_plugins
+gem "github-pages", "~> 226", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-include-cache'
 end
+
+gem "nokogiri", "~> 1.13.4"
+#gem "i18n", "~> 0.9.5"
+gem "webrick"
 
 # Lock `http_parser.rb` gem to `v0.6.x` on JRuby builds since newer versions of the gem
 # do not have a Java counterpart.

@@ -102,21 +102,24 @@ analytics:
 
 # Site Author
 author:
-  name             : "Amy L. Johnson"
-  avatar           : "/assets/images/headshot.JPG"
-  bio              : "PhD Candidate in Sociology, Stanford University"
+  #name             : " "
+  #avatar           : "/assets/images/headshot.JPG"
+  #bio              : "PhD Candidate in Sociology, Stanford University"
   location         : 
   email            : "aljohnson@stanford.edu"
   links:
-    #- label: "Email"
-    #  icon: "fas fa-fw fa-envelope-square"
-    #  url: "mailto:aljohnson@stanford.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/AmyLJohnson_soc"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/aljohnson-soc"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCK5Ws3gpEPQSYQ1zzefHqIw"
+    - label: "Department webpage"
+      icon: "fas fa-fw fa-link"
+      url: "https://sociology.stanford.edu/people/amy-l-johnson"
 
 
 # Site Footer

@@ -4,4 +4,21 @@ title: Research
 permalink: /research/
 ---
 
-Coming soon.
+## Research on mental health beliefs and behaviors
+
+The primary component of my research trajectory applies the sociology of culture to mental health, highlighting how changing understandings and beliefs at the macro level connect to behaviors and decision-making. This work extends and informs research on long-term trends in mental health and treatment and explores the construction of mental illness as an axis of social difference.
+
+In my dissertation, From Deviance to Diagnosis: Cultural Meanings of Mental Health, I use computational text analysis and custom text datasets to map the cultural conversation on mental health. In the first part of the dissertation, I employ a corpus of over 100,000 newspaper articles from 1980 to 2020 and structural topic modeling to analyze framings of mental health and illness in the news media, associations with dangerousness and violence, and the consequences for cultural understandings of mental health and illness as both normal and deviant. With the same corpus, I also utilize word embeddings to measure dimensions of stigmatization and unpack how different aspects of mental health and illness are differently stigmatized over time. In the second, I use a contemporary corpus of Reddit posts to assess how people deploy different frames to make sense of their subjective mental health experiences.
+
+In published work in the *Journal of Health and Social Behavior*, I conducted an age-period-cohort analysis of psychological distress and mental health treatment-seeking using the National Health Interview Survey (NHIS) to demonstrate the role of social and cultural change in driving increased treatment-seeking over time. 
+
+- [Johnson, Amy L. 2021. “Changes in Mental Health and Treatment, 1997-2017.” Journal of Health and Social Behavior. 62(1):53-68.](https://doi.org/10.1177/0022146520984136)
+- (in preparation) Johnson, Amy L. “Normal and Deviant: Oppositional Framings of Mental Health and Illness.”
+
+## Research on gender beliefs
+
+In collaborative research conducted through the [VMWare Women’s Leadership Innovation Lab](https://womensleadership.stanford.edu/), I explore how young adults’ gender beliefs are informed by cultural ideas of individualism and agency and contribute to persistent gender inequality by directing young adults away from structural solutions. The project, which uses longitudinal interview and survey data, is still ongoing and findings have been published in *Social Problems* and *Sociological Perspectives*.
+
+- [Carian, Emily K. and Amy L. Johnson. 2022. “The Agency Myth: Persistence in Individual Explanations for Gender Inequality.” Social Problems. 69(1):123-42.](https://doi.org/10.1093/socpro/spaa072)
+- [Baralt, Lori, Emily K. Carian, Amy L. Johnson, Sojung Lim, and Soo-Yeon Yoon. 2020. “Millennials and Gender in an Era of Growing Inequality.” Sociological Perspectives 63(3):452–60.](https://href.li/?https://doi.org/10.1177/0731121420915870)
+

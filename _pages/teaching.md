@@ -23,6 +23,9 @@ carousels:
 - [Video](https://www.youtube.com/watch?v=uAUYrxeUZEY) and [handout](https://drive.google.com/file/d/1K4Js5uEAg25hetxVwuKdSj6NWyHyhlbk/view) on Using Stata with Stanford’s FarmShare
 - [Video](https://www.youtube.com/watch?v=9aHG95INd4c) and [handout](https://drive.google.com/file/d/1RKpsKyF_vhosd-vCTD_p1oYxUey3VUht/view) on Workflow for Quantitative Analysis
 
+**Other resources**
+- [Pedagogy to Prioritize Mental Well-Being](https://docs.google.com/document/d/15PmMvcEewnqDAO14VWoAD_KX-i0rYw1Erm_PlELuTNY/edit)
+
 ## Research on teaching and learning
 
 One line of my research trajectory builds from my pedagogy, which centers equitable, evidence-based teaching practices. In work published in *Teaching Sociology*, a graduate student co-author and I outline strategies to improve the integration of statistical software into introductory statistics courses to better prepare sociology students to be responsible citizens in a data-centered society. The Stata workshop linked above is the foundation of this paper.

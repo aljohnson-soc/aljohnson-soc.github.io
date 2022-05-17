@@ -11,14 +11,32 @@ carousels:
     - image: ../assets/images/student_quotes/Slide4.jpeg
 
 ---
+<style>
+figure {
+  float: right;
+  width: 40%;
+  text-align: center;
+  font-size: smaller;
+  text-indent: 0;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+</style>
+
+
 ## Teaching resources
 **Course syllabi**
 - [SOC 152: Social Determinants of Health](https://drive.google.com/file/d/1QbKpJHUMCDV2ci_pJu73-hmDOUvAjlo7/view?usp=sharing), Winter 2022, Stanford University
 - [SOC 300: The Art and Joy of Teaching](https://drive.google.com/file/d/1-X5HppCwXPSdHz1jhmEna9zlWgOLfbAT/view?usp=sharing), Spring 2021, Stanford University
 - [Topics in Sociology: Mental Well-Being and Society](https://drive.google.com/file/d/1gJDhqMq6vrwVgAwamMjjwZNSsHC2FaqQ/view?usp=sharing), Summer 2020, Stanford Pre-Collegiate Summer Institutes Online
-
+<figure>
+  <img src="../assets/images/bootcamp_2019.jpg"
+    width="500" 
+    alt="photo from 2019 bootcamp">
+  <figcaption>Photo from 2019 bootcamp.</figcaption>
+</figure>
 **Quantitative methods materials**
-- Curriculum and materials for a one-week [Statistics Bootcamp](https://aljohnson-soc.github.io/StanfordStatsBootcamp/)
+- Curriculum and materials for a one-week [Statistics Bootcamp](https://aljohnson-soc.github.io/StanfordStatsBootcamp/) 
 - Materials for a two-hour [Introduction to Stata workshop](https://aljohnson-soc.github.io/StataWorkshop/)
 - [Video](https://www.youtube.com/watch?v=uAUYrxeUZEY) and [handout](https://drive.google.com/file/d/1K4Js5uEAg25hetxVwuKdSj6NWyHyhlbk/view) on Using Stata with Stanford’s FarmShare
 - [Video](https://www.youtube.com/watch?v=9aHG95INd4c) and [handout](https://drive.google.com/file/d/1RKpsKyF_vhosd-vCTD_p1oYxUey3VUht/view) on Workflow for Quantitative Analysis

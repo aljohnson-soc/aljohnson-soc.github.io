@@ -43,6 +43,8 @@ figure {
 
 **Other resources**
 - [Pedagogy to Prioritize Mental Well-Being](https://docs.google.com/document/d/15PmMvcEewnqDAO14VWoAD_KX-i0rYw1Erm_PlELuTNY/edit)
+- [Draft syllabus](https://drive.google.com/file/d/1g_O2ls09FN-GJJlbhUxyuF_sI_fhKTS8/view?usp=sharing) for Sociology of Gender introductory course
+- [Draft syllabus](https://drive.google.com/file/d/1ppsMjoqm4BWyl_n0tDqkd1fGIXp89YcO/view?usp=sharing) for Classical Social Theory introductory course
 
 ## Research on teaching and learning
 

@@ -26,7 +26,8 @@ figure {
 
 ## Teaching resources
 **Course syllabi**
-- [SOC 152: Social Determinants of Health](https://drive.google.com/file/d/1QbKpJHUMCDV2ci_pJu73-hmDOUvAjlo7/view?usp=sharing), Winter 2022, Stanford University
+-[SOC 123D: Mental Health from Crisis to Construction](https://drive.google.com/file/d/1QbKpJHUMCDV2ci_pJu73-hmDOUvAjlo7/view?usp=sharing), Summer 2022, Stanford University 
+-[SOC 152: Social Determinants of Health](https://drive.google.com/file/d/1QbKpJHUMCDV2ci_pJu73-hmDOUvAjlo7/view?usp=sharing), Winter 2022, Stanford University
 - [SOC 300: The Art and Joy of Teaching](https://drive.google.com/file/d/1-X5HppCwXPSdHz1jhmEna9zlWgOLfbAT/view?usp=sharing), Spring 2021, Stanford University
 - [Topics in Sociology: Mental Well-Being and Society](https://drive.google.com/file/d/1gJDhqMq6vrwVgAwamMjjwZNSsHC2FaqQ/view?usp=sharing), Summer 2020, Stanford Pre-Collegiate Summer Institutes Online
 <figure>

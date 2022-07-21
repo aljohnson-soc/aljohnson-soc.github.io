@@ -31,10 +31,10 @@ figure {
 - [SOC 300: The Art and Joy of Teaching](https://drive.google.com/file/d/1-X5HppCwXPSdHz1jhmEna9zlWgOLfbAT/view?usp=sharing), Spring 2021, Stanford University
 - [Topics in Sociology: Mental Well-Being and Society](https://drive.google.com/file/d/1gJDhqMq6vrwVgAwamMjjwZNSsHC2FaqQ/view?usp=sharing), Summer 2020, Stanford Pre-Collegiate Summer Institutes Online
 <figure>
-  <img src="../assets/images/bootcamp_2019.jpg"
+  <img src="../assets/images/teachingphoto2.jpg"
     width="500" 
-    alt="photo from 2019 bootcamp">
-  <figcaption>Photo from 2019 bootcamp.</figcaption>
+    alt="teaching SOC 152 in 2022">
+  <figcaption>Teaching SOC 152 in 2022 using a Think-Pair-Share activity.</figcaption>
 </figure>
 **Quantitative methods materials**
 - Curriculum and materials for a one-week [Statistics Bootcamp](https://aljohnson-soc.github.io/StanfordStatsBootcamp/) 

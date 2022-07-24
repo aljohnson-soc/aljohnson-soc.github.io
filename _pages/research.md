@@ -13,7 +13,7 @@ In my dissertation, From Deviance to Diagnosis: Cultural Meanings of Mental Heal
 In published work in the *Journal of Health and Social Behavior*, I conducted an age-period-cohort analysis of psychological distress and mental health treatment-seeking using the National Health Interview Survey (NHIS) to demonstrate the role of social and cultural change in driving increased treatment-seeking over time. 
 
 - [Johnson, Amy L. 2021. “Changes in Mental Health and Treatment, 1997-2017.” Journal of Health and Social Behavior. 62(1):53-68.](https://doi.org/10.1177/0022146520984136)
-- (in preparation) Johnson, Amy L. “Normal and Deviant: Oppositional Framings of Mental Health and Illness.”
+- (in preparation) Johnson, Amy L. “Normality, Deviance, and Ambiguity: Changes in the Framing of Mental Health and Illness, 1980-2020.”
 
 ## Research on gender beliefs
 

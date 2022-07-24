@@ -56,6 +56,8 @@ One line of my research trajectory builds from my pedagogy, which centers equita
 
   {% include carousel.html height="50" unit="%" duration="30" number="1" %}
 
+My teaching evaluations are available in full [here](https://drive.google.com/drive/folders/1GtCEVBGLNKBUrZXhJrG_sf7T8wKcWNkH?usp=sharing).
+
 ## Teaching and software consulting
 
 As a graduate student consultant with Stanford's [Center for Teaching and Learning](https://ctl.stanford.edu/ta-training-support/graduate-teaching-consultants), I offer services such as video observations and student feedback sessions to help graduate student instructors and teaching assistants improve their teaching. I also collaboratively design and teach workshops on topics such as anti-racist and equitable teaching, backwards design, active learning, and effective grading.

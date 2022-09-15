@@ -36,6 +36,7 @@ figure {
     alt="teaching SOC 152 in 2022">
   <figcaption>Teaching SOC 152 in 2022 using a Think-Pair-Share activity.</figcaption>
 </figure>
+
 **Quantitative methods materials**
 - Curriculum and materials for a one-week [Statistics Bootcamp](https://aljohnson-soc.github.io/StanfordStatsBootcamp/) 
 - Materials for a two-hour [Introduction to Stata workshop](https://aljohnson-soc.github.io/StataWorkshop/)
@@ -44,12 +45,13 @@ figure {
 
 **Other resources**
 - [Pedagogy to Prioritize Mental Well-Being](https://docs.google.com/document/d/15PmMvcEewnqDAO14VWoAD_KX-i0rYw1Erm_PlELuTNY/edit)
+- [Responding to Student Deaths](https://teachingcommons.stanford.edu/news/responding-student-deaths) (Stanford Teaching Commons resource collaboratively developed with Stanford CTL staff)
 - [Draft syllabus](https://drive.google.com/file/d/1g_O2ls09FN-GJJlbhUxyuF_sI_fhKTS8/view?usp=sharing) for Sociology of Gender introductory course
 - [Draft syllabus](https://drive.google.com/file/d/1ppsMjoqm4BWyl_n0tDqkd1fGIXp89YcO/view?usp=sharing) for Classical Social Theory introductory course
 
 ## Research on teaching and learning
 
-One line of my research trajectory builds from my pedagogy, which centers equitable, evidence-based teaching practices. In work published in *Teaching Sociology*, a graduate student co-author and I outline strategies to improve the integration of statistical software into introductory statistics courses to better prepare sociology students to be responsible citizens in a data-centered society. The Stata workshop linked above is the foundation of this paper.
+One line of my research trajectory builds from my pedagogy, which centers equitable, evidence-based teaching practices. In work published in *Teaching Sociology*, graduate student co-author Rebecca Gleit and I outline strategies to improve the integration of statistical software into introductory statistics courses to better prepare sociology students to be responsible citizens in a data-centered society. The Stata workshop linked above is the foundation of this paper.
 - [Johnson, Amy L. and Rebecca Gleit. 2022. “Teaching for a Data-Driven Future: Intentionally Building Foundational Computing Skills.” Teaching Sociology. 50(1):49-61.](https://doi.org/10.1177/0092055X211033632)
 
 ## Student testimonials

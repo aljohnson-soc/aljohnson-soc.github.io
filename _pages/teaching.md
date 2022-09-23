@@ -44,6 +44,7 @@ figure {
 - [Video](https://www.youtube.com/watch?v=9aHG95INd4c) and [handout](https://drive.google.com/file/d/1RKpsKyF_vhosd-vCTD_p1oYxUey3VUht/view) on Workflow for Quantitative Analysis
 
 **Other resources**
+- [Sample assignments](https://drive.google.com/file/d/13HnRA-IGfi3vlGZNo5FbS1VSx9DVwSGS/view?usp=sharing)
 - [Pedagogy to Prioritize Mental Well-Being](https://docs.google.com/document/d/15PmMvcEewnqDAO14VWoAD_KX-i0rYw1Erm_PlELuTNY/edit)
 - [Responding to Student Deaths](https://teachingcommons.stanford.edu/news/responding-student-deaths) (Stanford Teaching Commons resource collaboratively developed with Stanford CTL staff)
 - [Draft syllabus](https://drive.google.com/file/d/1g_O2ls09FN-GJJlbhUxyuF_sI_fhKTS8/view?usp=sharing) for Sociology of Gender introductory course

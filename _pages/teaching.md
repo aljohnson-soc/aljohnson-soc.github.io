@@ -50,6 +50,8 @@ figure {
 - [Draft syllabus](https://drive.google.com/file/d/1g_O2ls09FN-GJJlbhUxyuF_sI_fhKTS8/view?usp=sharing) for Sociology of Gender introductory course
 - [Draft syllabus](https://drive.google.com/file/d/1ppsMjoqm4BWyl_n0tDqkd1fGIXp89YcO/view?usp=sharing) for Classical Social Theory introductory course
 
+My full teaching portfolio, including a statement of my teaching philosophy, is available [here](https://drive.google.com/file/d/13Ie_8HItppWxvFuPdxCJpR4UyKX7qr0G/view?usp=sharing).
+
 ## Research on teaching and learning
 
 One line of my research trajectory builds from my pedagogy, which centers equitable, evidence-based teaching practices. In work published in *Teaching Sociology*, graduate student co-author Rebecca Gleit and I outline strategies to improve the integration of statistical software into introductory statistics courses to better prepare sociology students to be responsible citizens in a data-centered society. The Stata workshop linked above is the foundation of this paper.

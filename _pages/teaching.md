@@ -54,7 +54,7 @@ My full teaching portfolio, including a statement of my teaching philosophy, is 
 
 ## Research on teaching and learning
 
-One line of my research trajectory builds from my pedagogy, which centers equitable, evidence-based teaching practices. In work published in *Teaching Sociology*, graduate student co-author Rebecca Gleit and I outline strategies to improve the integration of statistical software into introductory statistics courses to better prepare sociology students to be responsible citizens in a data-centered society. The Stata workshop linked above is the foundation of this paper.
+One line of my research builds from my pedagogy, which centers equitable, evidence-based teaching practices. In work published in *Teaching Sociology*, graduate student co-author Rebecca Gleit and I outline strategies to improve the integration of statistical software into introductory statistics courses to better prepare sociology students to be responsible citizens in a data-centered society. The Stata workshop linked above is the foundation of this paper.
 - [Johnson, Amy L. and Rebecca Gleit. 2022. “Teaching for a Data-Driven Future: Intentionally Building Foundational Computing Skills.” Teaching Sociology. 50(1):49-61.](https://doi.org/10.1177/0092055X211033632)
 
 ## Student testimonials

@@ -14,6 +14,7 @@ My other research on mental health uses the National Health Interview Survey to 
 
 - [Johnson, Amy L. 2021. “Changes in Mental Health and Treatment, 1997-2017.” Journal of Health and Social Behavior. 62(1):53-68.](https://doi.org/10.1177/0022146520984136)
     - Mentioned in the podcast [*Mad in America*](https://www.madinamerica.com/2022/05/failings-mental-health-dangerous/).
+    - Featured in [*The Society Pages*](https://thesocietypages.org/discoveries/2021/03/24/mental-health-treatment-seeking-not-distress-increasing-for-all/).
 - (in preparation) Johnson, Amy L. “Normality, Deviance, and Ambiguity: Changes in the Framing of Mental Health and Illness, 1980-2020.”
 - (under review) Johnson, Amy L., Christopher Levesque, Neil A. Lewis, Jr., and Asad L. Asad. “Dramatic Societal Events and the Psychological Distress of U.S. Latinos by Citizenship, 2011-2018.”
 

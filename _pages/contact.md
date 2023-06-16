@@ -4,4 +4,4 @@ title:
 permalink: /contact/
 author_profile: true
 ---
-aljohnson [at] stanford [dot] edu
+aljohnson [at] lehigh [dot] edu

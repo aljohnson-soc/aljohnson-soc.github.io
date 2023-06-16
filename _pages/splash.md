@@ -10,7 +10,7 @@ header:
     - label: "Download CV"
       url: "https://drive.google.com/file/d/1PAhheCq3KViwlXWogguO-tl4eNw8obC4/view?usp=sharing"
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "PhD Candidate in Sociology, Stanford University"
+excerpt: "Assistant Professor of Sociology, Lehigh University"
 feature_row:
   - image_path: assets/images/grass.jpg
     title: "Research on mental health"
@@ -49,7 +49,7 @@ feature_row2:
 
 ---
 
-<img align="right" src="assets/images/headshot_johnson.jpg" width = 350 hspace="20">  I am a cultural, computational, and medical sociologist. In my dissertation and book project, I explore cultural change around mental health and illness by applying computational text analysis to the news media and social media. I highlight how mental health has been normalized while mental illness remains “otherized” in the cultural imagination. <br /><br /> I’m also passionate about equitable and inclusive teaching, particularly of quantitative methods and statistical software. <br/><br/> I have a BA from Wellesley College, where I majored in Sociology and Spanish. In addition to my work in the Stanford Sociology Department, I work as a [Center for Teaching and Learning](https://ctl.stanford.edu/) graduate student consultant, as a graduate research assistant at the Stanford [VMWare Women’s Leadership Innovation Lab](https://womensleadership.stanford.edu/), and as a software consultant for Stanford Library’s [Software and Services for Data Science (SSDS)](https://ssds.stanford.edu/). <br /><br /> In fall 2023, I will be joining the Sociology and Anthropology Department at Lehigh University as an Assistant Professor of Sociology. <br /><br /> Contact me at aljohnson [at] stanford [dot] edu 
+<img align="right" src="assets/images/headshot_johnson.jpg" width = 350 hspace="20">  I am a cultural, computational, and medical sociologist. In my book project, I explore cultural change around mental health and illness by applying computational text analysis to the news media and social media. I highlight how mental health has been normalized while mental illness remains “otherized” in the cultural imagination. <br /><br /> I’m also passionate about equitable and inclusive teaching, particularly of quantitative methods and statistical software. <br/><br/> I have a BA from Wellesley College, where I majored in Sociology and Spanish. <br /><br /> Contact me at aljohnson [at] lehigh [dot] edu 
 
 {% include feature_row id="intro" type="center" %}
 

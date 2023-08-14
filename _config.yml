@@ -104,9 +104,9 @@ analytics:
 author:
   #name             : " "
   #avatar           : "/assets/images/headshot.JPG"
-  #bio              : "PhD Candidate in Sociology, Stanford University"
+  #bio              : "Assistant Professor of Sociology, Lehigh University"
   location         : 
-  email            : "aljohnson@stanford.edu"
+  email            : "aljohnson@lehigh.edu"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -119,7 +119,7 @@ author:
       url: "https://www.youtube.com/channel/UCK5Ws3gpEPQSYQ1zzefHqIw"
     - label: "Department webpage"
       icon: "fas fa-fw fa-link"
-      url: "https://sociology.stanford.edu/people/amy-l-johnson"
+      url: "https://socanthro.cas.lehigh.edu/content/amy-johnson"
 
 
 # Site Footer

@@ -49,7 +49,7 @@ feature_row2:
 
 ---
 
-<img align="right" src="assets/images/headshot_johnson.jpg" width = 350 hspace="20">  I am a cultural, computational, and medical sociologist. In my book project, I explore cultural change around mental health and illness by applying computational text analysis to the news media and social media. I highlight how mental health has been normalized while mental illness remains “otherized” in the cultural imagination. <br /><br /> I’m also passionate about equitable and inclusive teaching, particularly of quantitative methods and statistical software. <br/><br/> I have a PhD in Sociology from Stanford University and BA in Sociology and Spanish from Wellesley College. <br /><br /> Contact me at aljohnson [at] lehigh [dot] edu 
+<img align="right" src="assets/images/headshot_johnson.jpg" width = 350 hspace="20">  I am a cultural, computational, and medical sociologist. My research investigates mental health and illness through a cultural lens, namely (1) how the cultural context influences mental health experiences and decision-making and (2) how mental health operates as a cultural framework. In my ongoing book project, I document cultural change around mental health and illness by applying computational text analysis to the news media and social media. <br /><br /> I’m also passionate about equitable and inclusive teaching, particularly of quantitative methods and statistical software. <br/><br/> I have a PhD in Sociology from Stanford University and BA in Sociology and Spanish from Wellesley College. <br /><br /> Contact me at aljohnson [at] lehigh [dot] edu 
 
 {% include feature_row id="intro" type="center" %}
 

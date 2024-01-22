@@ -25,15 +25,15 @@ figure {
 
 
 ## Teaching resources
-**Course syllabi**
-- [SOC 123D: Mental Health from Crisis to Construction](https://drive.google.com/file/d/1rJnVnR0KRSVnwBro9Flr8mOzaNlDc24H/view?usp=sharing), Summer 2022, Stanford University 
-- [SOC 152: Social Determinants of Health](https://drive.google.com/file/d/1QbKpJHUMCDV2ci_pJu73-hmDOUvAjlo7/view?usp=sharing), Winter 2022, Stanford University
+**Select course syllabi**
+- [SOC 191: Sociology of Mental Health](https://drive.google.com/file/d/1q6ix3ki97_7L1N2OULu5d_xyE7n-4ugH/view?usp=sharing), Fall 2023, Lehigh University 
+- [SOC 160: Medicine and Society](https://drive.google.com/file/d/1qEn9LLmOp_qVkBHd8h_tRlcLk7g9CChn/view?usp=sharing), Fall 2023, Lehigh University
 - [SOC 300: The Art and Joy of Teaching](https://drive.google.com/file/d/1-X5HppCwXPSdHz1jhmEna9zlWgOLfbAT/view?usp=sharing), Spring 2021, Stanford University
 <figure>
   <img src="../assets/images/teachingphoto2.jpg"
     width="500" 
-    alt="teaching SOC 152 in 2022">
-  <figcaption>Teaching SOC 152 in 2022 using a Think-Pair-Share activity.</figcaption>
+    alt="teaching in 2022 using Think-Pair-Share">
+  <figcaption>Teaching in 2022 using a Think-Pair-Share activity.</figcaption>
 </figure>
 
 **Quantitative methods materials**
@@ -58,4 +58,3 @@ One line of my research builds from my pedagogy, which centers equitable, eviden
 
   {% include carousel.html height="50" unit="%" duration="30" number="1" %}
 
-My teaching evaluations are available in full [here](https://drive.google.com/drive/folders/1GtCEVBGLNKBUrZXhJrG_sf7T8wKcWNkH?usp=sharing).

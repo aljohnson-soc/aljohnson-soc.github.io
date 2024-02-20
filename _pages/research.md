@@ -8,11 +8,11 @@ permalink: /research/
 
 My primary line of research applies a cultural sociology lens to contextualize long-term trends in mental health and treatment in the United States. I focus on changing understandings and beliefs at the macro level and how they influence individuals’ behaviors and decision-making.
 
-In my first book project, I am using computational and qualitative text analysis and custom text datasets from newspapers and social media to analyze how and with what consequences mental health and illness are reflected and deployed as a cultural paradigm. 
+In my first book project, I am using computational and qualitative text analysis and custom text datasets from newspapers and social media to analyze how mental health and illness appear and operate in American culture. 
 
 My other research on mental health uses the National Health Interview Survey to assess trends in psychological distress and treatment-seeking behaviors. 
 
-- Johnson, Amy L., Christopher Levesque, Neil A. Lewis, Jr., and Asad L. Asad. Forthcoming in *PNAS*. “Uncertainty about Immigration Enforcement Predicts Latino U.S. Citizens and Noncitizens’ Psychological Distress, 2011-2018.”
+- [Johnson, Amy L., Christopher Levesque, Neil A. Lewis, Jr., and Asad L. Asad. 2024. “Uncertainty about Immigration Enforcement Predicts Latino U.S. Citizens and Noncitizens’ Psychological Distress, 2011-2018.” Proceedings of the National Academy of Sciences 121(9):e2306554121.](https://www.pnas.org/doi/10.1073/pnas.2306554121)
 - [Johnson, Amy L. 2021. “Changes in Mental Health and Treatment, 1997-2017.” Journal of Health and Social Behavior. 62(1):53-68.](https://doi.org/10.1177/0022146520984136)
     - Mentioned in the podcast [*Mad in America*](https://www.madinamerica.com/2022/05/failings-mental-health-dangerous/).
     - Featured in [*The Society Pages*](https://thesocietypages.org/discoveries/2021/03/24/mental-health-treatment-seeking-not-distress-increasing-for-all/).

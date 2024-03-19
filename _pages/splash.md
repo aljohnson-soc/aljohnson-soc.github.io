@@ -61,4 +61,4 @@ My academic interests fall into three main areas:
 <sub>*please contact me for access to paywalled papers</sub>
 {% include feature_row id="feature_row2" %}
 
-All images courtesy of [Unsplash](https://unsplash.com).
+All images courtesy of [Unsplash](https://unsplash.com). Image of Stanford attributed to https://www.desmoinesconcreteworks.com/.

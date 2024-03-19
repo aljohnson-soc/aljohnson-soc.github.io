@@ -18,7 +18,7 @@ feature_row:
     url: "/research/#research-on-mental-health-beliefs-and-behaviors"
     btn_label: "Learn more"
     btn_class: "btn--primary"
-  - image_path: /assets/images/stanford.jpg
+  - image_path: /assets/images/gender.jpg
     title: "Research on gender"
     excerpt: "How do young people make sense of gender (inequality)?"
     url: "/research/#research-on-gender-beliefs"
@@ -61,4 +61,4 @@ My academic interests fall into three main areas:
 <sub>*please contact me for access to paywalled papers</sub>
 {% include feature_row id="feature_row2" %}
 
-All images courtesy of [Unsplash](https://unsplash.com). Image of Stanford attributed to https://www.desmoinesconcreteworks.com/.
+All images courtesy of [Unsplash](https://unsplash.com). 

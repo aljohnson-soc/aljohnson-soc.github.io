@@ -31,6 +31,11 @@ feature_row:
     btn_label: "Learn more"
     btn_class: "btn--primary"
 feature_row2:
+  - title: "Psychotic White Men and Bipolar Black Women? Racialized and Gendered Implications of Mental Health Terminology."
+    url: "https://doi.org/10.1016/j.socscimed.2024.117015"
+    excerpt: "*Social Science & Medicine*."
+    btn_label: "Read more"
+    btn_class: "btn--primary"
   - title: "Deportation threat predicts Latino US citizens and noncitizens’ psychological distress, 2011 to 2018"
     url: "https://www.pnas.org/doi/10.1073/pnas.2306554121"
     excerpt: "with Asad L. Asad, Neil Lewis, Jr., and Christopher Levesque. *PNAS*. 121(9):e2306554121."
@@ -39,11 +44,6 @@ feature_row2:
   - title: "Changes in Mental Health and Treatment, 1997-2017"
     excerpt: '*Journal of Health and Social Behavior*. 62(1):53-68.'
     url: "https://doi.org/10.1177/0022146520984136"
-    btn_label: "Read more"
-    btn_class: "btn--primary"
-  - title: "The Agency Myth: Persistence in Individual Explanations for Gender Inequality"
-    url: "https://doi.org/10.1093/socpro/spaa072"
-    excerpt: "with Emily Carian. *Social Problems*. 69(1):123-142."
     btn_label: "Read more"
     btn_class: "btn--primary"
 

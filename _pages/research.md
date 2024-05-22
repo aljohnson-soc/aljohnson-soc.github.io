@@ -8,7 +8,8 @@ permalink: /research/
 
 My primary line of research applies a cultural sociology lens to contextualize long-term trends in mental health and treatment in the United States. I focus on changing understandings and beliefs at the macro level and how they influence individuals’ behaviors and decision-making.
 
-In my first book project, I am using computational and qualitative text analysis and custom text datasets from newspapers and social media to analyze how mental health and illness appear and operate in American culture. 
+Much of my research, including my first book project, uses computational and qualitative text analysis and custom text datasets from newspapers and social media to analyze how mental health and illness appear and operate in American culture. 
+- [Johnson, Amy L. 2024. “Psychotic White Men and Bipolar Black Women? Racialized and Gendered Implications of Mental Health Terminology.” Social Science & Medicine.](https://doi.org/10.1016/j.socscimed.2024.117015)
 
 My other research on mental health uses the National Health Interview Survey to assess trends in psychological distress and treatment-seeking behaviors. 
 

@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Amy L. Johnson"
+title                    : "Amy L. Johnson, Ph.D."
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Amy L. Johnson"
+name                     : "Amy L. Johnson, Ph.D."
 description              : 
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"

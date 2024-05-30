@@ -1,5 +1,5 @@
 ---
-title: "Amy L. Johnson"
+title: "Amy L. Johnson, Ph.D."
 layout: splash
 permalink: /
 header:
@@ -10,7 +10,7 @@ header:
     - label: "Download CV"
       url: "https://drive.google.com/file/d/1PAhheCq3KViwlXWogguO-tl4eNw8obC4/view?usp=sharing"
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Assistant Professor of Sociology and Health, Medicine, and Society, Lehigh University"
+excerpt: "Assistant Professor of Sociology and Health, Medicine, and Society | Lehigh University"
 feature_row:
   - image_path: assets/images/grass.jpg
     title: "Research on mental health"

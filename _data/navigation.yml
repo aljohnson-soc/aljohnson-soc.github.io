@@ -6,6 +6,8 @@ main:
     url: /research/
   - title: "Teaching"
     url: /teaching/
+  - title: "Book"
+    url: /book/
   - title: "CV"
     url: https://drive.google.com/file/d/1PAhheCq3KViwlXWogguO-tl4eNw8obC4/view?usp=sharing
   - title: "Contact"

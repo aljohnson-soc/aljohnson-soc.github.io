@@ -16,6 +16,7 @@ Much of my research uses computational and qualitative text analysis and custom 
 My other research on mental health uses the National Health Interview Survey to assess trends in psychological distress and treatment-seeking behaviors. 
 
 - [Johnson, Amy L., Christopher Levesque, Neil A. Lewis, Jr., and Asad L. Asad. 2024. “Uncertainty about Immigration Enforcement Predicts Latino U.S. Citizens and Noncitizens’ Psychological Distress, 2011-2018.” *Proceedings of the National Academy of Sciences* 121(9):e2306554121.](https://www.pnas.org/doi/10.1073/pnas.2306554121)
+    - [2024 IPUMS Research Award](https://www.ipums.org/impact/ipums-research-award#healthsurveys)
     - Featured in [*Lehigh News*](https://www2.lehigh.edu/news/study-threat-of-deportation-leads-to-psychological-distress-among-both-latino-citizens-and), [*Cornell Chronicle*](https://news.cornell.edu/stories/2024/02/deportation-threat-worsens-latinos-anxiety-mental-health); [*Forbes México*](https://www.forbes.com.mx/asi-es-como-la-amenaza-de-deportacion-afecta-la-salud-mental-de-los-latinos-en-eu/), and [*HealthDay*](https://www.healthday.com/health-news/mental-health/political-changes-are-stressing-hispanic-americans-study).
 - [Johnson, Amy L. 2021. “Changes in Mental Health and Treatment, 1997-2017.” *Journal of Health and Social Behavior* 62(1):53-68.](https://doi.org/10.1177/0022146520984136)
     - Mentioned in the podcast [*Mad in America*](https://www.madinamerica.com/2022/05/failings-mental-health-dangerous/).

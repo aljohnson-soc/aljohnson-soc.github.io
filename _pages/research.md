@@ -12,6 +12,7 @@ Much of my research uses computational and qualitative text analysis and custom 
 
 - [Johnson, Amy L. 2025. "Mental Illness and the Resilience of Deviance." *Sociological Perspectives*](https://doi.org/10.1177/07311214251325512)
 - [Johnson, Amy L. 2024. “Psychotic White Men and Bipolar Black Women? Racialized and Gendered Implications of Mental Health Terminology.” *Social Science & Medicine* 352:117015.](https://doi.org/10.1016/j.socscimed.2024.117015)
+    - Featured in *Social Science & Medicine* [open access special issue on Power, Structure, and Health](https://www.sciencedirect.com/special-issue/103RR1324HP).
 
 My other research on mental health uses the National Health Interview Survey to assess trends in psychological distress and treatment-seeking behaviors. 
 

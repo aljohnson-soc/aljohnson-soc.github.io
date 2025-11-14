@@ -30,5 +30,6 @@ My other research on mental health uses the National Health Interview Survey to 
 
 In collaborative research conducted with [Emily Carian](https://emilycarian.com/), we explore how young adults’ gender beliefs are informed by cultural ideas of individualism and agency and contribute to persistent gender inequality by directing young adults away from structural solutions. The project, which uses longitudinal interview and survey data, is ongoing.
 
+- [Carian, Emily K. and Amy L. Johnson (equal authorship). 2025. *Sociological Forum*. “What’s Hard is Yet to Come: Critical Junctures and Changing Gender Beliefs at the Transition from College to Career.” Online early access.](https://onlinelibrary.wiley.com/doi/10.1111/socf.70026)
 - [Carian, Emily K. and Amy L. Johnson. 2022. “The Agency Myth: Persistence in Individual Explanations for Gender Inequality.” *Social Problems* 69(1):123-42.](https://doi.org/10.1093/socpro/spaa072)
 - [Baralt, Lori, Emily K. Carian, Amy L. Johnson, Sojung Lim, and Soo-Yeon Yoon. 2020. “Millennials and Gender in an Era of Growing Inequality.” *Sociological Perspectives* 63(3):452–60.](https://href.li/?https://doi.org/10.1177/0731121420915870)

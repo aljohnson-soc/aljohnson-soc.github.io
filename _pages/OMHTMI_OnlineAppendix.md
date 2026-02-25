@@ -1,4 +1,11 @@
-### Online Appendix for *Our Mental Health, Their Mental Illness*
+---
+layout: splash
+title: Online Appendix
+permalink: /book/appendix/
+---
+
+## Online Appendix for *Our Mental Health, Their Mental Illness*
+
 Amy L. Johnson
 
 ## Chapter 2

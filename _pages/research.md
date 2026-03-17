@@ -11,7 +11,7 @@ My primary line of research applies a cultural sociology lens to contextualize l
 Much of my research uses computational and qualitative text analysis and custom text datasets from newspapers and social media to analyze how mental health and illness appear and operate in U.S. culture. 
 
 - [Johnson, Amy L. 2026. "An Exploratory Analysis of Self-Diagnosis on Reddit." *SSM - Mental Health* 9:100597](https://doi.org/10.1016/j.ssmmh.2026.100597).
-- [Johnson, Amy L. 2025. "Mental Illness and the Resilience of Deviance." *Sociological Perspectives*](https://doi.org/10.1177/07311214251325512).
+- [Johnson, Amy L. 2025. "Mental Illness and the Resilience of Deviance." *Sociological Perspectives* 68(1-3):82-101](https://doi.org/10.1177/07311214251325512).
 - [Johnson, Amy L. 2024. “Psychotic White Men and Bipolar Black Women? Racialized and Gendered Implications of Mental Health Terminology.” *Social Science & Medicine* 352:117015.](https://doi.org/10.1016/j.socscimed.2024.117015)
     - Featured in *Social Science & Medicine* [open access special issue on Power, Structure, and Health](https://www.sciencedirect.com/special-issue/103RR1324HP).
 
@@ -32,5 +32,6 @@ My other research on mental health uses the National Health Interview Survey to 
 In collaborative research conducted with [Emily Carian](https://emilycarian.com/), we explore how young adults’ gender beliefs are informed by cultural ideas of individualism and agency and contribute to persistent gender inequality by directing young adults away from structural solutions. The project, which uses longitudinal interview and survey data, is ongoing.
 
 - [Carian, Emily K. and Amy L. Johnson (equal authorship). 2025. *Sociological Forum*. “What’s Hard is Yet to Come: Critical Junctures and Changing Gender Beliefs at the Transition from College to Career.” Online early access.](https://onlinelibrary.wiley.com/doi/10.1111/socf.70026)
+    - Featured by the Stanford VMWare Women's Leadership Innovation Lab on [LinkedIn](https://www.linkedin.com/posts/stanford-vmware-women-s-leadership-innovation-lab_genderresearch-education-newhires-activity-7402478899441692673-O5mb)
 - [Carian, Emily K. and Amy L. Johnson. 2022. “The Agency Myth: Persistence in Individual Explanations for Gender Inequality.” *Social Problems* 69(1):123-42.](https://doi.org/10.1093/socpro/spaa072)
 - [Baralt, Lori, Emily K. Carian, Amy L. Johnson, Sojung Lim, and Soo-Yeon Yoon. 2020. “Millennials and Gender in an Era of Growing Inequality.” *Sociological Perspectives* 63(3):452–60.](https://href.li/?https://doi.org/10.1177/0731121420915870)

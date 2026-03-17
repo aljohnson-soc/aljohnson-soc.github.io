@@ -32,7 +32,7 @@ feature_row:
     btn_class: "btn--primary"
 feature_row2:
   - title: "Mental Illness and the Resilience of Deviance"
-    excerpt: '*Sociological Perspectives*'
+    excerpt: '*Sociological Perspectives* 68(1-3):82-101.'
     url: "https://doi.org/10.1177/07311214251325512"
     btn_label: "Read more"
     btn_class: "btn--primary"

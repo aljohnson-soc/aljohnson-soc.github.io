@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: Online Appendix
-permalink: /book/appendix/
+permalink: /ourmentalhealth/appendix/
 ---
 
 ## Online Appendix for *Our Mental Health, Their Mental Illness*

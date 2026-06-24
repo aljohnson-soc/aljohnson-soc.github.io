@@ -8,9 +8,9 @@ header:
   overlay_image: /assets/images/header.jpg
   actions:
     - label: "Download CV"
-      url: "https://drive.google.com/file/d/1PAhheCq3KViwlXWogguO-tl4eNw8obC4/view?usp=sharing"
+      url: "https://drive.google.com/file/d/1GwrCYKQMG4vJinffJWYMq5hol-CuhP2G/view?usp=sharing"
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Assistant Professor of Sociology and Health, Medicine, and Society, Lehigh University"
+excerpt: "Assistant Professor of Sociology, Indiana University"
 feature_row:
   - image_path: assets/images/grass.jpg
     title: "Research on mental health"
@@ -49,7 +49,7 @@ feature_row2:
 
 ---
 
-<img align="right" src="assets/images/Johnson_photo2.jpg" width = 570 hspace="20" title="Photo credit: Christine Kreschollek" alt="A photo of Amy. She is a white woman with dark blond hair wearing glasses and a black cardigan. The photo is artistically blurred and Amy is looking over her right shoulder.">  I am a cultural, computational, and medical sociologist. My research investigates mental health and illness through a cultural lens, namely (1) how the cultural context influences mental health experiences and decision-making and (2) how mental health operates as a cultural framework. In my ongoing book project, I document cultural change around mental health and illness by applying computational text analysis to the news media and social media. <br /><br /> I’m also passionate about equitable and inclusive teaching, particularly of quantitative methods and statistical software. <br/><br/> I currently hold the position of Assistant Professor of [Sociology](https://socanthro.cas.lehigh.edu/) and [Health, Medicine, and Society](https://hms.cas.lehigh.edu/) at Lehigh University in Bethlehem, PA. I have a PhD in Sociology from Stanford University and BA in Sociology and Spanish from Wellesley College. <br /><br /> Contact me at aljohnson [at] lehigh [dot] edu <br /><br /> In August 2026, I will begin a new position as Assistant Professor of Sociology at Indiana University in Bloomington, IN.
+<img align="right" src="assets/images/Johnson_photo2.jpg" width = 570 hspace="20" title="Photo credit: Christine Kreschollek" alt="A photo of Amy. She is a white woman with dark blond hair wearing glasses and a black cardigan. The photo is artistically blurred and Amy is looking over her right shoulder.">  I am a medical, computational, and cultural sociologist. My research investigates mental health and illness through a cultural lens, namely (1) how the cultural context influences mental health experiences and decision-making and (2) how mental health operates as a cultural framework. In my forthcoming book, I document cultural change around mental health and illness by applying computational text analysis to the news media and social media. <br /><br /> I’m also passionate about equitable and inclusive teaching, particularly of quantitative methods and statistical software. <br/><br/> I currently hold the position of Assistant Professor of Sociology at Indiana University in Bloomington, IN. I previously worked at Lehigh University in Bethlehem, PA. I have a PhD in Sociology from Stanford University and BA in Sociology and Spanish from Wellesley College. <br /><br /> Contact me at ajo13 [at] iu [dot] edu <br /><br /> 
 
 {% include feature_row id="intro" type="center" %}
 

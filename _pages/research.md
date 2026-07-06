@@ -8,14 +8,19 @@ permalink: /research/
 
 My primary line of research applies a cultural sociology lens to contextualize long-term trends in mental health and treatment in the United States. I focus on changing understandings and beliefs at the macro level and how they influence individuals’ behaviors and decision-making.
 
-Much of my research uses computational and qualitative text analysis and custom text datasets from newspapers and social media to analyze how mental health and illness appear and operate in U.S. culture. 
+
+### Computational text analysis: mental health and illness in U.S. culture
 
 - [Johnson, Amy L. 2026. "An Exploratory Analysis of Self-Diagnosis on Reddit." *SSM - Mental Health* 9:100597](https://doi.org/10.1016/j.ssmmh.2026.100597).
 - [Johnson, Amy L. 2025. "Mental Illness and the Resilience of Deviance." *Sociological Perspectives* 68(1-3):82-101](https://doi.org/10.1177/07311214251325512).
 - [Johnson, Amy L. 2024. “Psychotic White Men and Bipolar Black Women? Racialized and Gendered Implications of Mental Health Terminology.” *Social Science & Medicine* 352:117015.](https://doi.org/10.1016/j.socscimed.2024.117015)
     - Featured in *Social Science & Medicine* [open access special issue on Power, Structure, and Health](https://www.sciencedirect.com/special-issue/103RR1324HP).
 
-My other research on mental health uses the National Health Interview Survey to assess trends in psychological distress and treatment-seeking behaviors. 
+### Suicide
+
+- [Johnson, Amy L. 2026. "More than a Means: The Relationship between Gun Culture and Suicide." *Society and Mental Health* Online first.](https://doi.org/10.1177/21568693261453765)
+
+### National Health Interview Survey: psychological distress and treatment-seeking  
 
 - [Johnson, Amy L., Christopher Levesque, Neil A. Lewis, Jr., and Asad L. Asad. 2024. “Uncertainty about Immigration Enforcement Predicts Latino U.S. Citizens and Noncitizens’ Psychological Distress, 2011-2018.” *Proceedings of the National Academy of Sciences* 121(9):e2306554121.](https://www.pnas.org/doi/10.1073/pnas.2306554121)
     - [2024 IPUMS Health Surveys Best Published Research Award](https://www.ipums.org/2024-award-winners)

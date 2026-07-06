@@ -31,6 +31,11 @@ feature_row:
     btn_label: "Learn more"
     btn_class: "btn--primary"
 feature_row2:
+  - title: "More than a Means: The Relationship between Gun Culture and Suicide"
+    url: "https://doi.org/10.1177/21568693261453765"
+    excerpt: "*Society and Mental Health*"
+    btn_label: "Read more"
+    btn_class: "btn--primary"
   - title: "Mental Illness and the Resilience of Deviance"
     excerpt: '*Sociological Perspectives* 68(1-3):82-101.'
     url: "https://doi.org/10.1177/07311214251325512"
@@ -41,11 +46,7 @@ feature_row2:
     excerpt: "*Social Science & Medicine* 352:117015."
     btn_label: "Read more"
     btn_class: "btn--primary"
-  - title: "Deportation threat predicts Latino US citizens and noncitizens’ psychological distress, 2011 to 2018"
-    url: "https://www.pnas.org/doi/10.1073/pnas.2306554121"
-    excerpt: "with Asad L. Asad, Neil Lewis, Jr., and Christopher Levesque. *PNAS* 121(9):e2306554121."
-    btn_label: "Read more"
-    btn_class: "btn--primary"
+
 
 ---
 

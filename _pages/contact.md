@@ -4,4 +4,6 @@ title:
 permalink: /contact/
 author_profile: true
 ---
-aljohnson [at] lehigh [dot] edu
+TESTING
+
+ajo13 [at] iu [dot] edu

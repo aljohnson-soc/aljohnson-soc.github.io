@@ -4,6 +4,7 @@ title: Research
 permalink: /research/
 ---
 
+
 # Research on mental health beliefs and behaviors
 
 My primary line of research applies a cultural sociology lens to contextualize long-term trends in mental health and treatment in the United States. I focus on changing understandings and beliefs at the macro level and how they influence individuals’ behaviors and decision-making.

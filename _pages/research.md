@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-## Research on mental health beliefs and behaviors
+# Research on mental health beliefs and behaviors
 
 My primary line of research applies a cultural sociology lens to contextualize long-term trends in mental health and treatment in the United States. I focus on changing understandings and beliefs at the macro level and how they influence individuals’ behaviors and decision-making.
 
@@ -32,7 +32,7 @@ My primary line of research applies a cultural sociology lens to contextualize l
     - Featured in [*The Society Pages*](https://thesocietypages.org/discoveries/2021/03/24/mental-health-treatment-seeking-not-distress-increasing-for-all/).
 
 
-## Research on gender beliefs
+# Research on gender beliefs
 
 In collaborative research conducted with [Emily Carian](https://emilycarian.com/), we explore how young adults’ gender beliefs are informed by cultural ideas of individualism and agency and contribute to persistent gender inequality by directing young adults away from structural solutions. The project, which uses longitudinal interview and survey data, is ongoing.
 

@@ -11,25 +11,6 @@ header:
       url: "https://drive.google.com/file/d/1GwrCYKQMG4vJinffJWYMq5hol-CuhP2G/view?usp=sharing"
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Assistant Professor of Sociology, Indiana University"
-feature_row:
-  - image_path: assets/images/grass.jpg
-    title: "Research on mental health"
-    excerpt: "How are mental health and illness conceptualized in our cultural imagination?"
-    url: "/research/#research-on-mental-health-beliefs-and-behaviors"
-    btn_label: "Learn more"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/gender.jpg
-    title: "Research on gender"
-    excerpt: "How do young people make sense of gender (inequality)?"
-    url: "/research/#research-on-gender-beliefs"
-    btn_label: "Learn more"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/books.jpg
-    title: "Teaching and learning"
-    url: "/teaching"
-    excerpt: "How can our sociology classrooms (especially our quantitative methods) be more inclusive and equitable?"
-    btn_label: "Learn more"
-    btn_class: "btn--primary"
 feature_row2:
   - title: "More than a Means: The Relationship between Gun Culture and Suicide"
     url: "https://doi.org/10.1177/21568693261453765"
@@ -50,13 +31,16 @@ feature_row2:
 
 ---
 
-<img align="right" src="assets/images/Johnson_photo2.jpg" width = 570 hspace="20" title="Photo credit: Christine Kreschollek" alt="A photo of Amy. She is a white woman with dark blond hair wearing glasses and a black cardigan. The photo is artistically blurred and Amy is looking over her right shoulder.">  I am a medical, computational, and cultural sociologist. My research investigates mental health and illness through a cultural lens, namely (1) how the cultural context influences mental health experiences and decision-making and (2) how mental health operates as a cultural framework. In my forthcoming book, <a href="https://press.princeton.edu/books/paperback/9780691277059/our-mental-health-their-mental-illness"><em>Our Mental Health, Their Mental Illness</em> (Princeton University Press)</a>, I document cultural change around mental health and illness by applying computational text analysis to the news media and social media. <br /><br /> I’m also passionate about equitable and inclusive teaching, particularly of quantitative methods and statistical software. <br/><br/> I currently hold the position of Assistant Professor of Sociology at Indiana University in Bloomington, IN. I previously worked at Lehigh University in Bethlehem, PA. I have a PhD in Sociology from Stanford University and BA in Sociology and Spanish from Wellesley College. <br /><br /> Contact me at ajo13 [at] iu [dot] edu <br /><br /> 
+<div style="float: right; margin-left: 20px; margin-bottom: 20px; display: flex; align-items: flex-end; gap: 15px;">
+  <img src="assets/images/Johnson_photo2.jpg" style="width: 420px; min-width: 420px; height: auto; display: block; flex-shrink: 0;" title="Photo credit: Christine Kreschollek" alt="A photo of Amy. She is a white woman with dark blond hair wearing glasses and a black cardigan. The photo is artistically blurred and Amy is looking over her right shoulder.">
+  <a href="https://press.princeton.edu/books/paperback/9780691277059/our-mental-health-their-mental-illness" target="_blank" rel="noopener noreferrer" style="flex-shrink: 0;">
+    <img src="{{ site.baseurl }}/assets/images/omhtmi_cover.jpg" alt="Our Mental Health, Their Mental Illness Book Cover" style="width: 200px; height: auto; display: block; flex-shrink: 0;">
+  </a>
+</div>
+
+I am a medical, computational, and cultural sociologist. My research investigates mental health and illness through a cultural lens, namely (1) how the cultural context influences mental health experiences and decision-making and (2) how mental health operates as a cultural framework. <br /><br /> In my forthcoming book, <a href="https://press.princeton.edu/books/paperback/9780691277059/our-mental-health-their-mental-illness"><em>Our Mental Health, Their Mental Illness</em> (Princeton University Press)</a>, I document cultural change around mental health and illness by applying computational text analysis to the news media and social media. <br /><br /> I’m also passionate about equitable and inclusive teaching, particularly of quantitative methods and statistical software. <br/><br/> I currently hold the position of Assistant Professor of Sociology at Indiana University in Bloomington, IN. I previously worked at Lehigh University in Bethlehem, PA. I have a PhD in Sociology from Stanford University and BA in Sociology and Spanish from Wellesley College. <br /><br /> Contact me at ajo13 [at] iu [dot] edu <br /><br /> 
 
 {% include feature_row id="intro" type="center" %}
-
-My academic interests fall into three main areas:
-
-{% include feature_row %}
 
 # Recent Publications
 <sub>*please contact me for access to paywalled papers</sub>
